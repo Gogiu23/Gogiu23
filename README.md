@@ -1,4 +1,15 @@
-[![Gogiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gogiu23)](https://github.com/Gogiu23/github-readme-stats)
+
+
+🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Gogiu23&theme=onedark)
+![Gogiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gogiu23&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gogiu23&layout=compact&theme=dracula)
+
+
+
+
+
 - 👋 Hi, I’m @Gogiu23
 - 👀 I’m interested in new tech, IT, Biology and more..
 - 🌱 I’m currently learning on 42 accademy in Barcelona (C, C#, C++, Java, Phyton...)
