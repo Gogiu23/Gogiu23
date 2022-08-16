@@ -4,7 +4,7 @@
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![GitHub watchers](https://img.shields.io/github/watchers/Gogiu23/PUSH_SWAP?style=social)](https://GitHub.com/Gogiu23/PUSH_SWAP)
+[![GitHub watchers](https://img.shields.io/github/watchers/Gogiu23/PUSH-SWAP?style=social)](https://GitHub.com/Gogiu23/PUSH-SWAP)
 
 
 
