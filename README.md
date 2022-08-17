@@ -1,4 +1,4 @@
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+## [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Gogiu23/Gogiu23?color=cyan&label=Profile%20whatchers&logo=C&logoColor=blue&style=for-the-badge">
 
@@ -10,24 +10,24 @@
 
 
 
-💻 Which SO i worked with:
+###  💻 Which SO i worked with:
 
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
-📠 Which editor i used mostly:
+## 📠 Which editor i used mostly:
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-🕹 Which platform i use for gaming:
+## 🕹 Which platform i use for gaming:
 
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-👨🏻‍💻 Which language i'm using or learning:
+## 👨🏻‍💻 Which language i'm using or learning:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,16 +42,16 @@
 
 
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Gogiu23&theme=onedark)
 
-📊 My personal stats
+## 📊 My personal stats
 
 ![Gogiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gogiu23&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gogiu23&theme=blue-green)]
 
-⾔ My langs
+## ⾔ My langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gogiu23&layout=compact&theme=dracula)
 
