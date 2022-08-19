@@ -5,7 +5,7 @@ name: Node.js CI
 # Controls when the workflow will run
 on:
   schedule:
-  - cron: "32 12 *"
+  - cron: "33 12 *"
 env:
   SECRET_KEY: ${{ secrets.Gogiu23 }}
 
@@ -27,7 +27,7 @@ jobs:
       with:
         node-version: '14'
       env:
-        SECRET_KEY: ${{ secrets.SECRET_KEY }}
+        SECRET_KEY: ${{ secrets.Gogiu23 }}
     - run: npm install
     - run: npm run update-readme
     - run: |
