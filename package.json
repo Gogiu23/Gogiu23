@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nach131/42Barcelona.git"
+    "url": "git+https://github.com/Gogiu23.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nach131/42Barcelona/issues"
+    "url": "https://github.com/Gogiu23/issues"
   },
-  "homepage": "https://github.com/nach131/42Barcelona#readme",
+  "homepage": "https://github.com/Gogiu23#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "dotenv": "^16.0.1"
