@@ -1,5 +1,7 @@
 ## [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
+<img alt="Steam Views" src="https://img.shields.io/steam/views/102987251?label=views&style=flat-square">
+
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Gogiu23/Gogiu23?color=cyan&label=Profile%20whatchers&logo=C&logoColor=blue&style=for-the-badge">
 
 ![](https://github.com/Gogiu23/Gogiu23/blob/main/banner.png)
