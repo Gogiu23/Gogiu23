@@ -1,0 +1,36 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Node.js CI
+
+# Controls when the workflow will run
+on:
+  schedule:
+  - cron: "00 22 * * *"
+env:
+  SECRET_KEY: ${{ secrets.SECRET_KEY }}
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+   build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'
+      env:
+        SECRET_KEY: ${{ secrets.SECRET_KEY }}
+    - run: npm install
+    - run: npm run update-readme
+    - run: |
+        git add .
+        git commit -m "generated"
+        git push
