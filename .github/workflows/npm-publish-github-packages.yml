@@ -5,7 +5,7 @@ name: Node.js Package
 
 on:
   schedule:
-  - cron: "20 13 * * *"
+  - cron: "30 13 * * *"
 env:
   SECRET_KEY: ${{ secrets.Gogiu23 }}
 
