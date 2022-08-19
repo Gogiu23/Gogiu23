@@ -1,3 +1,7 @@
+<p align="center">
+<img alt="total-views" src="https://img.shields.io/badge/views-total_views-blue">
+</p>
+
 ## [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 <img alt="Steam Views" src="https://img.shields.io/steam/views/102987251?label=views&style=flat-square">
