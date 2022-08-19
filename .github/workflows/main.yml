@@ -5,7 +5,7 @@ name: Node.js CI
 # Controls when the workflow will run
 on:
   schedule:
-  - cron: "35 12 * * *"
+  - cron: "39 12 * * *"
 env:
   SECRET_KEY: ${{ secrets.Gogiu23 }}
 
